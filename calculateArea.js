@@ -13,4 +13,4 @@ function calculateArea(length, width) {
 }
 
 calculateArea(12, 14);
-calculateArea(-5, 10);  // ❌ Invalid (Negative number)
+calculateArea(-5, 10); // ❌ Invalid (Negative number)
